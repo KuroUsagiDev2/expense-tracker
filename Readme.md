@@ -1,7 +1,7 @@
 # 🚀 Expense Tracker (Laravel + Svelte)
 
 ## **Overview**
-Expense Tracker is a **full-stack web application** that allows users to track their income and expenses efficiently. Built with **Laravel 10** for the backend and **SvelteKit** for the frontend, it provides a seamless experience for managing personal finances.
+Expense Tracker is a **full-stack web application** that allows users to track their income and expenses efficiently. Built with **Laravel 11** for the backend and **SvelteKit** for the frontend, it provides a seamless experience for managing personal finances.
 
 ## **Key Features**
 ✅ **User Authentication** (Sanctum/JWT)  
